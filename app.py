@@ -10,7 +10,7 @@ else:
 
   if grade < 3:
     st.write("Слаб(2)")
-  if grade >= 3 and <3.5:
+  if grade >= 3 and  grade < 3.5:
     st.write("Среден(3)")
   if grade >= 3.5 and grade < 4.5:
     st.write("Добър(4)")
