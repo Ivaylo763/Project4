@@ -1,2 +1,4 @@
 import streamlit as st
-text = st.text_input("Въведи текст")
+name = st.text_input("Въведи име")
+age = st.text_input("Въведи възраст")
+grade = st.text_input("Въведи оценка")
